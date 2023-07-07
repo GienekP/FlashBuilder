@@ -159,7 +159,7 @@ int main( int argc, char* argv[] )
 		default:
 		{
 			printf("(c) GienekP\n");
-			printf("use:\nflashbuilder file.bincar file256.bin [-128|-256|-512]\n");
+			printf("use:\nflashbuilder file.bincar file.xex [-128|-256|-512]\n");
 		} break;
 	};
 	return 0;
